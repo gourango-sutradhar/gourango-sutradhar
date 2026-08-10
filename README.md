@@ -39,4 +39,4 @@ Data & Business Analyst | Economics Scholar | Bridging Data Insights with Busine
 
 ## 📈 GitHub Activity
 
-![Gourango's GitHub Stats](https://github-readme-stats.qn3.workers.dev/api?username=gourango-sutradhar&show_icons=true&theme=radial)
+![Gourango's GitHub Stats](https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=gourango-sutradhar&show_icons=true&theme=radial)
