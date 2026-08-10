@@ -5,8 +5,8 @@ Data & Business Analyst | Economics Scholar | Bridging Data Insights with Busine
 ---
 
 ## 🎯 About Me
-- 🎓 **Education:** BSS in Economics (National University, Bangladesh)
-- 📊 **Specialization:** Transforming complex data into actionable business intelligence using quantitative analysis
+- 🎓 **Education:** BSS in Economics, National University, Bangladesh
+- 📊 **Specialization:** Applying quantitative analysis and economic thinking to business data
 - 🛠️ **Tech Stack:** SQL | Power BI | Excel (Power Query & DAX) | Tableau
 - 📍 **Location:** Dhaka, Bangladesh
 - 📫 **Contact Email:** gourango.s2001@gmail.com
@@ -25,18 +25,7 @@ Data & Business Analyst | Economics Scholar | Bridging Data Insights with Busine
 
 ---
 
-## 📁 Key Data Analytics Projects
-
-### 📌 [SQL Data Cleansing & Querying Assignments](https://github.com/gourango-sutradhar/SQL-Data-Analytics-Projects)
-- **Tools:** SQL, PostgreSQL
-- **Key Highlights:** Cleaned unstructured datasets and executed complex SQL scripts for relational database querying.
-
-### 📌 [Excel Advanced Business Dashboards](https://github.com/gourango-sutradhar/Excel-Analytics-Projects)
-- **Tools:** Microsoft Excel, Power Query, Pivot Tables
-- **Key Highlights:** Automated raw data transformation with Power Query and created dynamic KPI dashboards.
-
----
-
-## 📈 GitHub Activity
-
-![Gourango's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=gourango-sutradhar&theme=dark)
+## 🚀 Current Focus & Learning Journey
+- 🎯 Building real-world data analytics projects using **SQL & Excel**.
+- 📊 Designing interactive dashboards in **Power BI & Tableau**.
+- 💡 Exploring business case studies to convert raw data into strategic decisions.
