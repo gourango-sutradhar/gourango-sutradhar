@@ -5,7 +5,7 @@ Data & Business Analyst | Economics Scholar | Bridging Data Insights with Busine
 ---
 
 ## 🎯 About Me
-- 🎓 **Education:** BSS in Economics, National University, Bangladesh
+- 🎓 **Education:** BSS in Economics (National University, Bangladesh)
 - 📊 **Specialization:** Transforming complex data into actionable business intelligence using quantitative analysis
 - 🛠️ **Tech Stack:** SQL | Power BI | Excel (Power Query & DAX) | Tableau
 - 📍 **Location:** Dhaka, Bangladesh
